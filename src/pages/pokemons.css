@@ -1,0 +1,41 @@
+.pokedex-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 0 1.5em;
+}
+
+.pokedex-header {
+  display: flex;
+  flex-direction: column;
+  margin: 1em 1em 0 1em;
+}
+
+.pokedex-header > h1 {
+  margin-bottom: .5em;
+}
+
+.pokedex- form {
+  margin: 1em;
+}
+
+.form-group-container {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+
+.list-with-pic {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  padding: 1em;
+}
+
+.remove-bullet {
+  list-style-type: none;
+}
+
+.list-item-width {
+  width: 15em;
+}

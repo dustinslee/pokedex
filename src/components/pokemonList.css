@@ -1,0 +1,11 @@
+.list-with-pic {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2em;
+  padding: 1em;
+}
+
+.remove-bullet {
+  list-style-type: none;
+}
